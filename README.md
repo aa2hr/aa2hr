@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="100%" alt="circuit header" />
+  <img src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="100%" alt="circuit header" />
 </p>
 
 <div align="center">
