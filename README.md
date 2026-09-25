@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="100%" alt="circuit header" />
+  <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="100%" alt="header" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=600&size=26&pause=1000&color=8A734B&center=true&vCenter=true&width=560&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=600&size=26&duration=2800&pause=800&color=8A734B&center=true&vCenter=true&width=560&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
+<p align="center">
+<strong>on-chain explorer · web builder · always shipping</strong>
+</p>
 
-**on-chain explorer · web builder · always shipping**
-
-[![X](https://img.shields.io/badge/X-betaxnft-1a1a1a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/betaxnft)
-[![Debank](https://img.shields.io/badge/Debank-portfolio-4A4238?style=for-the-badge)](https://debank.com/profile/0xf79cd7b73c86cf051d6e814c4e457081e019f85e)
-[![GitHub](https://img.shields.io/badge/GitHub-aa2hr-111111?style=for-the-badge&logo=github)](https://github.com/aa2hr)
-
-</div>
+<p align="center">
+  <a href="https://x.com/betaxnft"><img src="https://img.shields.io/badge/X-betaxnft-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://debank.com/profile/0xf79cd7b73c86cf051d6e814c4e457081e019f85e"><img src="https://img.shields.io/badge/Debank-portfolio-4A4238?style=for-the-badge" alt="Debank" /></a>
+  <a href="https://github.com/aa2hr"><img src="https://img.shields.io/badge/GitHub-aa2hr-111111?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -26,6 +28,6 @@
 
 `javascript` · `typescript` · `python` · `solidity` · `html/css`
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa2hr&theme=transparent&hide_border=true" alt="streak" />
-</div>
+</p>
