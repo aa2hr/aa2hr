@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:161412,55:3A3228,100:8A734B&text=aa2hr&fontSize=52&fontAlignY=35&fontColor=F4EFE6&desc=on-chain%20%C2%B7%20web&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="aa2hr header" />
 </p>
 
 <p align="center">
