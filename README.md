@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aa2hr/aa2hr/main/header.svg" width="100%" alt="aa2hr circuit header" />
+  <img src="https://raw.githubusercontent.com/aa2hr/aa2hr/main/header.svg?v=pulse1" width="100%" alt="aa2hr circuit header" />
 </p>
 
 <p align="center">
