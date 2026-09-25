@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:161412,55:3A3228,100:8A734B&text=aa2hr&fontSize=52&fontAlignY=35&fontColor=F4EFE6&desc=on-chain%20%C2%B7%20web&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="aa2hr header" />
+  <img src="https://raw.githubusercontent.com/aa2hr/aa2hr/main/header.svg" width="100%" alt="aa2hr circuit header" />
 </p>
 
 <p align="center">
