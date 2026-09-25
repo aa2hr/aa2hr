@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/0QheUBDKtYbQeOWKxS/giphy.gif" width="100%" alt="neon circuit header" />
+  <img src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="100%" alt="circuit header" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=520&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=600&size=26&duration=2800&pause=800&color=8A734B&center=true&vCenter=true&width=560&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
 
 **on-chain explorer · web builder · always shipping**
 
 [![X](https://img.shields.io/badge/X-betaxnft-1a1a1a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/betaxnft)
-[![Debank](https://img.shields.io/badge/Debank-portfolio-6366F1?style=for-the-badge)](https://debank.com/profile/0xf79cd7b73c86cf051d6e814c4e457081e019f85e)
+[![Debank](https://img.shields.io/badge/Debank-portfolio-4A4238?style=for-the-badge)](https://debank.com/profile/0xf79cd7b73c86cf051d6e814c4e457081e019f85e)
 [![GitHub](https://img.shields.io/badge/GitHub-aa2hr-111111?style=for-the-badge&logo=github)](https://github.com/aa2hr)
 
 </div>
