@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/AdtB8TtizElk0OrRGR/giphy.gif" width="100%" alt="circuit header" />
+  <img src="https://media.giphy.com/media/0QheUBDKtYbQeOWKxS/giphy.gif" width="100%" alt="neon circuit header" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=520&lines=Alex+%2F+aa2hr;building+on-chain+%26+on-web" alt="typing" />
 
 **on-chain explorer · web builder · always shipping**
 
