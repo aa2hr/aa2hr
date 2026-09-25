@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 
-<!--
-**aa2hr/aa2hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aa2hr)
+[![X](https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=white)](https://x.com/betaxnft)
 
-Here are some ideas to get you started:
+# Hey there! :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Alex**, a developer who likes building things that actually work — clean, useful, and a bit experimental.
+
+I spend time around **web**, **crypto**, and tools that connect APIs and people. Always learning, always shipping.
+
+**About me:**
+- GitHub: [aa2hr](https://github.com/aa2hr)
+- X: [@betaxnft](https://x.com/betaxnft)
+- More: [debank](https://debank.com/profile/0xf79cd7b73c86cf051d6e814c4e457081e019f85e)
+
+If something here is useful, a ⭐ never hurts.
